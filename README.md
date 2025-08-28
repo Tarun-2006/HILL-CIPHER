@@ -72,5 +72,5 @@ int main() {
 
 
 ## RESULT : 
-           To write a C program to implement the hill cipher substitution techniques is implemented successfully. 
+To write a C program to implement the hill cipher substitution techniques is implemented successfully. 
           
