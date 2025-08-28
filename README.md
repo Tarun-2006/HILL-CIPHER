@@ -1,4 +1,6 @@
-# HILL CIPHER
+## EX. NO: 3: IMPLEMENTATION OF HILL CIPHER
+## Name: Tarun S
+## Register Number: 212223040226
 
 ## AIM: To write a C program to implement the hill cipher substitution techniques.
 
