@@ -2,7 +2,8 @@
 ## Name: Tarun S
 ## Register Number: 212223040226
 
-## AIM: To write a C program to implement the hill cipher substitution techniques.
+## AIM: 
+To write a C program to implement the hill cipher substitution techniques.
 
 ## DESCRIPTION:
 
