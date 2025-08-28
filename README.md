@@ -1,8 +1,6 @@
 # HILL CIPHER
 
-## AIM: IMPLEMENTATION OF HILL CIPHER
- 
-## To write a C program to implement the hill cipher substitution techniques.
+## AIM: To write a C program to implement the hill cipher substitution techniques.
 
 ## DESCRIPTION:
 
